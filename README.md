@@ -2,9 +2,9 @@
 
 Play some Pokemon while you're here!
 
-![](https://pokemon.ispypuck.dev/game)
+![](http://ispypuck.github.io/iSpyPuck/game)
  
 |                                    |                                      |                                     |                                     |                                       |
 | ---------------------------------- | ------------------------------------ | ----------------------------------- | ----------------------------------- | ------------------------------------- |
-|                                    | [⬆️](https://pokemon.ispypuck.dev/input/UP)    |                                      | [🅱️](https://pokemon.ispypuck.dev/input/B)     | [🅰️](https://pokemon.ispypuck.dev/input/A)      |
-| [⬅️](https://pokemon.ispypuck.dev/input/LEFT) | [⬇️](https://pokemon.ispypuck.dev/input/DOWN)  | [➡️](https://pokemon.ispypuck.dev/input/RIGHT) | [⏺️](https://pokemon.ispypuck.dev/input/START) | [⏏️](https://pokemon.ispypuck.dev/input/SELECT) |
+|                                    | [⬆️](http://ispypuck.github.io/iSpyPuck/input/UP)    |                                      | [🅱️](http://ispypuck.github.io/iSpyPuck/input/B)     | [🅰️](http://ispypuck.github.io/iSpyPuck/input/A)      |
+| [⬅️](http://ispypuck.github.io/iSpyPuck/input/LEFT) | [⬇️](http://ispypuck.github.io/iSpyPuck/input/DOWN)  | [➡️](http://ispypuck.github.io/iSpyPuck/input/RIGHT) | [⏺️](http://ispypuck.github.io/iSpyPuck/input/START) | [⏏️](http://ispypuck.github.io/iSpyPuck/input/SELECT) |
