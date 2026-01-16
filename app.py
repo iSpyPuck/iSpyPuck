@@ -70,6 +70,16 @@ def advance_game(key):
 def index():
     return render_template('index.html')
 
+@app.route('/game')
+def game():
+    return render_template('index.html')
+
+@app.route('/screen')
+def screen():
+    response = make_response(send_file(BytesIO(current_gif), mimetype='image/gif'))
+    response.headers['Cache-Control'] = 'private, max-age=0, no-cache'
+    return response
+
 @app.route('/input/<key>')
 def do_input(key):
     if key in KEYMAP:
@@ -77,12 +87,6 @@ def do_input(key):
         return redirect('https://github.com/iSpyPuck', code=302)
     else:
         return 'invalid key', 400
-
-@app.route('/game')
-def game():
-    response = make_response(send_file(BytesIO(current_gif), mimetype='image/gif'))
-    response.headers['Cache-Control'] = 'private, max-age=0, no-cache'
-    return response
 
 if __name__ == '__main__':
     from waitress import serve
