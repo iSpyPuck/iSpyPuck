@@ -1,5 +1,5 @@
 from io import BytesIO
-from flask import Flask, request, redirect, make_response, send_file
+from flask import Flask, request, redirect, make_response, send_file, render_template
 from pyboy import PyBoy, WindowEvent
 
 pyboy = PyBoy('blue.gb', window_type='headless', window_scale=3, debug=True, game_wrapper=True)
@@ -65,6 +65,10 @@ def advance_game(key):
     current_gif = gif_bytes.getvalue()
 
     is_advancing = False
+
+@app.route('/')
+def index():
+    return render_template('index.html')
 
 @app.route('/input/<key>')
 def do_input(key):
