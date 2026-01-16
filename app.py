@@ -2,7 +2,7 @@ from io import BytesIO
 from flask import Flask, request, redirect, make_response, send_file
 from pyboy import PyBoy, WindowEvent
 
-pyboy = PyBoy('red.gb', window_type='headless', window_scale=3, debug=True, game_wrapper=True)
+pyboy = PyBoy('blue.gb', window_type='headless', window_scale=3, debug=True, game_wrapper=True)
 pyboy.set_emulation_speed(0)
 
 print('starting emulator...', flush=True)
