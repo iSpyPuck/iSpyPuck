@@ -2,9 +2,9 @@
 
 Play some Pokemon while you're here!
 
-![](https://ispypuck.onrender.com/screen)
+![](https://unreconsidered-tiesha-proscribable.ngrok-free.dev/screen)
  
 |                                    |                                      |                                     |                                     |                                       |
 | ---------------------------------- | ------------------------------------ | ----------------------------------- | ----------------------------------- | ------------------------------------- |
-|                                    | [⬆️](https://ispypuck.onrender.com/input/UP)    |                                      | [🅱️](https://ispypuck.onrender.com/input/B)     | [🅰️](https://ispypuck.onrender.com/input/A)      |
-| [⬅️](https://ispypuck.onrender.com/input/LEFT) | [⬇️](https://ispypuck.onrender.com/input/DOWN)  | [➡️](https://ispypuck.onrender.com/input/RIGHT) | [⏺️](https://ispypuck.onrender.com/input/START) | [⏏️](https://ispypuck.onrender.com/input/SELECT) |
+|                                    | [⬆️](https://unreconsidered-tiesha-proscribable.ngrok-free.dev/input/UP)    |                                      | [🅱️](https://unreconsidered-tiesha-proscribable.ngrok-free.dev/input/B)     | [🅰️](https://unreconsidered-tiesha-proscribable.ngrok-free.dev/input/A)      |
+| [⬅️](https://unreconsidered-tiesha-proscribable.ngrok-free.dev/input/LEFT) | [⬇️](https://unreconsidered-tiesha-proscribable.ngrok-free.dev/input/DOWN)  | [➡️](https://unreconsidered-tiesha-proscribable.ngrok-free.dev/input/RIGHT) | [⏺️](https://unreconsidered-tiesha-proscribable.ngrok-free.dev/input/START) | [⏏️](https://unreconsidered-tiesha-proscribable.ngrok-free.dev/input/SELECT) |
