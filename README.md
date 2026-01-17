@@ -1,6 +1,6 @@
 # iSpyPuck
 
-play some pokemon blue that anyone can control
+play some pokemon blue
 
 ![](https://unreconsidered-tiesha-proscribable.ngrok-free.dev/screen)
  
